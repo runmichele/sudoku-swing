@@ -1,6 +1,6 @@
 # Sudoku Solver com Interface Gráfica 🧩
 
-Este é um projeto de Sudoku desenvolvido em **Java com Swing**, como parte de um exercício acadêmico para a disciplina de Programação Orientada a Objetos.
+## 📚 Este é um projeto de Sudoku desenvolvido em **Java com Swing**, como parte de um exercício acadêmico para a disciplina de Programação Orientada a Objetos.
 
 A aplicação permite ao usuário preencher um tabuleiro com algumas pistas iniciais e clicar em "Resolver" para que o sistema complete automaticamente os espaços vazios utilizando um algoritmo de **backtracking**.
 
@@ -45,10 +45,7 @@ git clone https://github.com/seu-usuario/sudoku-swing.git
 
 3. Execute o arquivo `Main.java`.
 
-4. Preencha alguns números no tabuleiro e clique em **"Resolver"** para ver o Sudoku ser resolvido.
+4. Preencha alguns números no tabuleiro e clique em **"Resolver"** para ver o Sudoku ser funcionar.
 
 ---
 
-## 📚 Licença
-
-Este projeto é apenas para fins educacionais.
